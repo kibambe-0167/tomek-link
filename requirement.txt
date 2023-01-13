@@ -3,3 +3,6 @@ imbalanced-learn
 pandas
 openpyxl
 matplotlib
+numpy
+pandas
+seaborn
